@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mum:home|Door43 (mum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mum|d43-mum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mum/archive/master.zip|d43-mum.zip]]
+
+**Recent Changes**
+{{changes>ns = mum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mum|Ethnologue data]]
+
